@@ -10,7 +10,7 @@ library(data.table)
 #######################################
 
 yy <- 2021 # año del trimestre
-mm <- 11 # mes central
+mm <- 12 # mes central
 
 #######################################
 
